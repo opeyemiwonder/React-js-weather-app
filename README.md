@@ -27,3 +27,8 @@ Distributed under the [MIT](http://showalicense.com/?fullname=Konstantin+M%C3%BC
 See ``LICENSE`` for more information.
 
 [https://github.com/konstantinmuenster](https://github.com/konstantinmuenster)
+
+## Update
+Dockerize application
+Deploy application using infrastructure as a code tool (Terraform)
+Configure CI/CD on application
