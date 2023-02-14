@@ -29,6 +29,6 @@ See ``LICENSE`` for more information.
 [https://github.com/konstantinmuenster](https://github.com/konstantinmuenster)
 
 ## Update
-Dockerize application
-Deploy application using infrastructure as a code tool (Terraform)
-Configure CI/CD on application
+     Dockerize application
+     Deploy application using infrastructure as a code tool (Terraform)
+     Configure CI/CD on application
