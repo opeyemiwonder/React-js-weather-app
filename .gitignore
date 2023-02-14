@@ -25,11 +25,9 @@ yarn-error.log*
 #api keys
 .env
 
-
 ### Terraform ###
 # Local .terraform directories
 **/.terraform/*
-
 # .tfstate files
 *.tfstate
 *.tfstate.*
